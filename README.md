@@ -2,17 +2,16 @@
 
 Software required (keywords only):
 
-Chrome:
+<b>Chrome:</b>
 
   Extension - https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 <br>
   OR
 </br>
   Userscript - https://www.4chan-x.net/builds/4chan-X.user.js
-<br>
   * requires a userscript extension such as Greasyfork or Tampermonkey
      
-Firefox:
+<b>Firefox:</b>
 
 1. Greasemonkey - https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 2. Script - https://www.4chan-x.net/builds/4chan-X.user.js
