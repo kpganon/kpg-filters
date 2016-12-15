@@ -1,4 +1,4 @@
-﻿/reminder/i
+/reminder/i
 /astro/i
 /rosé/i
 /jennie/i
@@ -49,26 +49,21 @@
 /i feel like/i
 /scene/i
 /^square one>page one$/
-/^>>68234421\nLOL \(and i don't mean the album\)$/
+/LOL (\and i don't mean the album/)/i
 /shinee/i
 /^https:\/\/www\.youtube\.com\/watch\?v=WJua7KEP_oE$/
-/^>>68251605\nhttps:\/\/www\.youtube\.com\/watch\?v=Dww9UjJ4Dt8$/
-/^>>68371921\n\*VOMITS\*$/
 /^l I s a$/
 /^choa \+ sandwich$/
 /^BRRRRR RAMBO$/
-/^>>68540294\n\*vomits\*$/
 /^Is this a Dubu thread\?$/
 /^b l a c k p I n k$/
 /^bp 2bh$/
-/^>>68557188\nYéóréúm ís lítérál séx$/
-/says zinger/i
-/^>>68561501\nlawl$/
+/zinger/i
+/lawl/i
 /^BRRRRRR RAMBO$/
 /^Post gaypop$/
 /GsD/i
 /^o u r g I r l s$/
-/^>>68602838\n\*vomits\*$/
 /shook/i
 /big bang/i
 /^gaypoppers wya$/
@@ -87,7 +82,6 @@
 /KARD/i
 /K.A.R.D./i
 /friendos/i
-/^http:\/\/www\.vlive\.tv\/video\/18028\/\nhttp:\/\/www\.vlive\.tv\/video\/18028\/\nhttp:\/\/www\.vlive\.tv\/video\/18028\/\n\no u r g I r l$/
 /our guy/i
 /our guys/i
 /our boys/i
@@ -117,5 +111,5 @@
 /Taeyang/i
 /mrjkpop/i
 /yoongi/i
-/Brendan Fischer/i
+/brendan/i
 /not gonna lie/i
