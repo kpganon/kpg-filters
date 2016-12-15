@@ -4,11 +4,11 @@ Software required (keywords only):
 
 <b>Chrome:</b>
 
-  Extension - https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
+  *Extension - https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 <br>
   OR
 </br>
-  Userscript - https://www.4chan-x.net/builds/4chan-X.user.js
+  *Userscript - https://www.4chan-x.net/builds/4chan-X.user.js
   * requires a userscript extension such as Greasyfork or Tampermonkey
      
 <b>Firefox:</b>
