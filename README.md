@@ -9,6 +9,7 @@ Chrome:
   OR
 </br>
   Userscript - https://www.4chan-x.net/builds/4chan-X.user.js
+<br>
      * requires a userscript extention such as Greasyfork or Tampermonkey
      
 Firefox:
