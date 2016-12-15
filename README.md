@@ -5,7 +5,9 @@ Software required (keywords only):
 Chrome:
 
   Extention - https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
+<br>
   OR
+</br>
   Userscript - https://www.4chan-x.net/builds/4chan-X.user.js
      * requires a userscript extention such as Greasyfork or Tampermonkey
      
