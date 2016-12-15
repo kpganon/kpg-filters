@@ -1,6 +1,6 @@
 # kpg-filters
 
-Software required (keywords only):
+Software required (<i>keywords only</i>):
 
 <b>Chrome:</b>
 
