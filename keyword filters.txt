@@ -1,115 +1,146 @@
-/reminder/i
-/astro/i
-/rosé/i
-/jennie/i
-/lisa/i
-/black pink/i
-/blackpink/i 
-/yg/i
-/husband/i
-/husbando/i
-/bts/i
-/exo/i
+# Filter Stallman copypasta on /g/:
+#/what you're refer+ing to as linux/i;boards:g
+# Filter posts with 20 or more quote links:
+#/(?:>>\d(?:(?!>>\d)[^])*){20}/
+# Filter posts like T H I S / H / I / S:
+/^>?\s?\w\s?(\w)\s?(\w)\s?(\w).*$[\s>]+\1[\s>]+\2[\s>]+\3/im
+
+# Fagpop
+
+/astro/i;boards:mu
+/husband/i;boards:mu
+/husbando/i;boards:mu
+/bts/i;boards:mu
+/exo/i;boards:mu
+/seventeen/i;boards:mu
+/17/i;boards:mu
+/rapman/i;boards:mu
+/taemin/i;boards:mu
+/jackson/i;boards:mu
+/zico/i;boards:mu
+/jith/i;boards:mu
+/hubby/i;boards:mu
+/bacon/i;boards:mu
+/bac0n/i;boards:mu
+/shinee/i;boards:mu
+/post gaypop/i;boards:mu
+/bang/i;boards:mu
+/MONSTER/i;boards:mu
+/dean/i;boards:mu
+/mingyu/i;boards:mu
+/PCY/i;boards:mu
+/KARD/i;boards:mu
+/K.A.R.D./i;boards:mu
+/friendo/i;boards:mu
+/guy/i;boards:mu
+/guys/i;boards:mu
+/boy/i;boards:mu
+/boys/i;boards:mu
+/bigbang/i;boards:mu
+/ntc/i;boards:mu
+/nct/i;boards:mu
+/rapmon/i;boards:mu
+/woozi/i;boards:mu
+/vixx/i;boards:mu
+/vix/i;boards:mu
+/vixxx/i;boards:mu
+/horse/i;boards:mu
+/onew/i;boards:mu
+/wings/i;boards:mu
+/jungkook/i;boards:mu
+/hubando/i;boards:mu
+/johyun/i;boards:mu
+/taeyong/i;boards:mu
+/seungri/i;boards:mu
+/2YOON/i;boards:mu
+/dungchee/i;boards:mu
+/taeyang/i;boards:mu
+/yoongi/i;boards:mu
+/chen/i;boards:mu
+/vernon/i;boards:mu
+/wolf/i;boards:mu
+/victon/i;boards:mu
+/doyoung/i;boards:mu
+/KINGS/i;boards:mu
+/twenty four/i;boards:mu
+/24/i;boards:mu
+/kyungsoo/i;boards:mu
+/chen/i;boards:mu
+/suga/i;boards:mu
+/him/i;boards:mu
+
+# BP
+
+/jennie/i;boards:mu
+/rosé/i;boards:mu
+/jennie/i;boards:mu
+/lisa/i;boards:mu
+/black pink/i;boards:mu
+/blackpink/i ;boards:mu
+/blackpiink/i;boards:mu
+/BlacPink/i;boards:mu
+/yg/i;boards:mu
+/finito/i;boards:mu
+/whistle/i;boards:mu
+/missile/i;boards:mu
+/rosĘ/i;boards:mu
+/square one>page one/;boards:mu
+/l I s a/;boards:mu
+/RAMBO/i;boards:mu
+/b l a c k p I n k/i;boards:mu
+/o u r g I r l s/i;boards:mu
+/rosay/i;boards:mu
+/rosè/i;boards:mu
+
+# Uggos / Nugus / Gross
+
+/sunny/i;boards:mu
+/yeri/i;boards:mu
+/suzy/i;boards:mu
+/sulli/i;boards:mu
+/jellybeanose/i;boards:mu
+/dubu/i;boards:mu
+/dahyun/i;boards:mu
+/GsD/i;boards:mu
+/minah/i;boards:mu
+/seohyun/i;boards:mu
+/hyosung/i;boards:mu
+/serri/i;boards:mu
+/choa/i;boards:mu
+/krystal/i;boards:mu
+/tara/i;boards:mu
+/t-ara/i;boards:mu
+/hwa/i;boards:mu
+/wonder girls/i;boards:mu
+
+# Misc
+
+/meme/i;boards:mu
+/bait/i;boards:mu
+/jpoop/i;boards:mu
+/j-poop/i;boards:mu
+/reminder/i;boards:mu
 /@/i
-/lawl/i
-/rapman/i
-/kys/i
-/cuck/i
-/blackpiink/i
-/taemin/i
-/sunny/i
-/jackson/i
-/finito/i
+/lawl/i;boards:mu
+/kys/i;boards:mu
+/cuck/i;boards:mu
 /grimes/i
-/yeri/i
-/zico/i
-/BlacPink/i
-/suzy/i
-/jith/i
-/whistle/i
-/missile/i
-/hubby/i
-/RosĘ/i
-/wordito/i
-/bacon/i
-/Bac0n/i
-/Sulli/i
-/autis/i
-/shame about the face/i
-/SHINEES BACK/i
-/https:\/\/telegram\.me\/joinchat\/Di6GdAmD_teZkCNiscdZ8Q/i
-/the face ruins everything/i
-/btfo/i
-/yezicripple/i
-/yezi/i
-/4chan Pass user since/i
-/manface/i
-/jellybeanose/i
-/got7/i
-/i feel like/i
-/scene/i
-/^square one>page one$/
-/LOL (\and i don't mean the album/)/i
-/shinee/i
-/^https:\/\/www\.youtube\.com\/watch\?v=WJua7KEP_oE$/
-/^l I s a$/
-/^choa \+ sandwich$/
-/^BRRRRR RAMBO$/
-/^Is this a Dubu thread\?$/
-/^b l a c k p I n k$/
-/^bp 2bh$/
-/zinger/i
-/lawl/i
-/^BRRRRRR RAMBO$/
-/^Post gaypop$/
-/GsD/i
-/^o u r g I r l s$/
-/shook/i
-/big bang/i
-/^gaypoppers wya$/
-/^#REMOVESANA$/
-/^YOU CAN CALL ME MONSTER$/
-/dean/i
-/mingyu/i
-/PCY/i
-/seohyun/i
-/hyosung/i
-/serri/i
-/sulli/i
-/choa/i
-/krystal/i
-/rosay/i
-/KARD/i
-/K.A.R.D./i
-/friendos/i
-/our guy/i
-/our guys/i
-/our boys/i
-/boys/i
-/boy/i
-/rosè/i
-/bigbang/i
-/ntc/i
-/nct/i
-/rapmon/i
-/woozi/i
-/vixx/i
-/vix/i
-/vixxx/i
-/horse/i
-/onew/i
-/wings/i
-/jungkook/i
-/hubando/i
-/johyun/i
-/tara/i
-/hwa/i
-/taeyong/i
-/seungri/i
-/2YOON/i
-/dungchee/i
-/Taeyang/i
-/mrjkpop/i
-/yoongi/i
-/brendan/i
-/not gonna lie/i
+/wordito/i;boards:mu
+/autis/i;boards:mu
+/shame about the face/i;boards:mu
+/the face ruins everything/i;boards:mu
+/telegram/i;boards:mu
+/btfo/i;boards:mu
+/yezicripple/i;boards:mu
+/yezi/i;boards:mu
+/4chan Pass user since/i;boards:mu
+/manface/i;boards:mu
+/feel like/i;boards:mu
+/scene/i;boards:mu
+/choa \+ sandwich/i;boards:mu
+/zinger/i;boards:mu
+/shook/i;boards:mu
+/mrjkpop/i;boards:mu
+/dodo/i;boards:mu
+/kanye/i;boards:mu
+/swift/i;boards:mu
