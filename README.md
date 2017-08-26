@@ -8,11 +8,11 @@ Software required:
 
 <h1>Userscript managers</h1>
 
-<i>Chrome:</i>
+<h3>Chrome:</h3>
 
-<h3>Tampermonkey:</h3> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+<i>Tampermonkey:</i> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
-<b>Firefox:</b>
+<h3>Firefox:</h3>
 
 <h3>Greasemonkey:</h3> https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
