@@ -40,6 +40,8 @@
 <img src="http://i.imgur.com/8FTkMjG.jpg">
 </p>
 
+<b>Settings -> Filter -> Image MD5 to add hashes</b>
+
 * under settings -> advanced -> file info formatting add %f to create a 1-click filter & hide option for images
 <p align="center">
 <img src="http://i.imgur.com/4PEsVxM.jpg">
