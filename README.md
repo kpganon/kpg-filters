@@ -6,7 +6,7 @@ Software required:
 * 4chanX
 * Scripts
 
-<h1>Userscript managers<h1>
+<h1>Userscript managers</h1>
 
 <i>Chrome:</i>
 
