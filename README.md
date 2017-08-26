@@ -2,9 +2,9 @@
 
 Software required:
 
-*Userscript manager
-*4chanX
-*Scripts
+* Userscript manager
+* 4chanX
+* Scripts
 
 <h1>Userscript managers<h1>
 
