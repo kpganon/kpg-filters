@@ -21,4 +21,7 @@ Software required (<i>keywords only</i>):
 Filter images by MD5 hash:
 
 http://userscripts-mirror.org/scripts/show/105653
-  * if installed correctly there will be an 'Image MD5' option under the filter section when using the post dropdown menu
+  * if installed correctly there will be an 'Image MD5' option under the filter section when using the post dropdown menu 
+<p align="center">
+<img src="http://i.imgur.com/VY7zdZx.jpg">
+</p>
