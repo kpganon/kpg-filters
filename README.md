@@ -8,7 +8,7 @@ Software required:
 
 <h1>Userscript managers<h1>
 
-<b>Chrome:</b>
+<i>Chrome:</i>
 
 <h3>Tampermonkey:</h3> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
