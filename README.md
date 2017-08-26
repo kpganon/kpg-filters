@@ -35,6 +35,7 @@
 <h1>Image Filters</h1>
 
 <i>Filter images by MD5 hash:</i> http://userscripts-mirror.org/scripts/show/105653
+
 <b>Settings -> Filter -> Image MD5 to add hashes</b>
   * if installed correctly there will be an 'Image MD5' option under the filter section when using the post dropdown menu 
 <p align="center">
