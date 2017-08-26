@@ -41,9 +41,9 @@
 </p>
 
 * under settings -> advanced -> file info formatting add %f to create a 1-click filter & hide option for images
-<p align="left">
+<p align="center">
 <img src="http://i.imgur.com/4PEsVxM.jpg">
 </p>
-<p align="right">
+<p align="center">
 <img src="http://i.imgur.com/McjCWN9.jpg">
 </p>
