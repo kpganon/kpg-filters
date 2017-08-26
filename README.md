@@ -47,3 +47,15 @@
 <p align="center">
 <img src="http://i.imgur.com/McjCWN9.jpg">
 </p>
+
+
+<h1>Bonus</h1>
+
+<i>Replace & highlight words:</i> https://greasyfork.org/en/scripts/16673-replace-and-highlight
+* Native 4chan extension only
+<p align="center">
+<img src="https://i.imgur.com/IWRxC9M.jpg">
+</p>
+<p align="center">
+<img src="https://i.imgur.com/ufHQdM7.jpg">
+</p>
