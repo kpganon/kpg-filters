@@ -1,7 +1,6 @@
 # Fagpop
 /husband/i;boards:mu
 /hubby/i;boards:mu
-
 /shinee/i;boards:mu
 /taehyung/i;boards:mu
 /astro/i;boards:mu
@@ -34,10 +33,10 @@
 /chen/i;boards:mu
 /rat/i;boards:mu
 /winwin/i;boards:mu
-
 /vix{1,3}/i;boards:mu
 
 # Shitposters / Uggos
+/choa/i;boards:mu
 
     # BP
 /é/i;boards:mu
@@ -46,8 +45,6 @@
 /jennie/i;boards:mu
 /blink/i;boards:mu
 /black pink/i;boards:mu
-
-/choa/i;boards:mu
 
     # Other
 /;/i;boards:mu
