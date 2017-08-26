@@ -1,4 +1,4 @@
-# kpg filters
+# /mu/kpg filters
 
 Software required:
 
@@ -10,27 +10,27 @@ Software required:
 
 <b>Chrome:</b>
 
-<i>Tampermonkey:</i> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+<h3>Tampermonkey:</h3> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 <b>Firefox:</b>
 
-<i>Greasemonkey:</i> https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+<h3>Greasemonkey:</h3> https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
-<h2>4chanX</h2>
+<h1>4chanX</h1>
 
 <b>Chrome:</b>
 
-  <i>Extension</i> - https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
+  <i>Extension:</i> https://chrome.google.com/webstore/detail/4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 <br>
   OR
 </br>
-  <i>Userscript:</i> - https://www.4chan-x.net/builds/4chan-X.user.js
+  <i>Userscript:</i> https://www.4chan-x.net/builds/4chan-X.user.js
      
 <b>Firefox:</b>
 
 <i>Userscript only:</i> https://www.4chan-x.net/builds/4chan-X.user.js
 
-<h3>Image Filters</h3>
+<h1>Image Filters</h1>
 
 Filter images by MD5 hash:
 
