@@ -1,8 +1,8 @@
 <p align="center">
-<b><font size="21"> /mu/kpg filters</font></b>
+<b><font size="32"> /mu/kpg filters</font></b>
 </p> 
 
-<h3>Software required:</h3>
+<h1>Software required:</h1>
 
 * Userscript manager
 * 4chanX
