@@ -1,5 +1,5 @@
 <p align="center">
-<b>/mu/kpg filters</b>
+<b><h1>/mu/kpg filters</h1></b>
 </p> 
 
 <h3>Software required:</h3>
