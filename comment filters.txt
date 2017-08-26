@@ -1,0 +1,85 @@
+# Fagpop
+/husband/i;boards:mu
+/hubby/i;boards:mu
+
+/shinee/i;boards:mu
+/taehyung/i;boards:mu
+/astro/i;boards:mu
+/seventeen/i;boards:mu
+/baekhyun/i;boards:mu
+/bacon/i;boards:mu
+/bac0n/i;boards:mu
+/rapman/i;boards:mu
+/rapmon/i;boards:mu
+/taemin/i;boards:mu
+/jackson/i;boards:mu
+/jeonghan/i;boards:mu
+/kris/i;boards:mu
+/monster/i;boards:mu
+/monsta/i;boards:mu
+/bigbang/i;boards:mu
+/big bang/i;boards:mu
+/taeyong/i;boards:mu
+/kyungsoo/i;boards:mu
+/suga/i;boards:mu
+/mark/i;boards:mu
+/bangtan/i;boards:mu
+/heechul/i;boards:mu
+/xiumin/i;boards:mu
+/chanyeol/i;boards:mu
+/sehun/i;boards:mu
+/taehyun/i;boards:mu
+/got7/i;boards:mu
+/carry/i;boards:mu
+/chen/i;boards:mu
+/rat/i;boards:mu
+/winwin/i;boards:mu
+
+/vix{1,3}/i;boards:mu
+
+# Shitposters / Uggos
+
+    # BP
+/é/i;boards:mu
+/rose/i;boards:mu
+/lisa/i;boards:mu
+/jennie/i;boards:mu
+/blink/i;boards:mu
+/black pink/i;boards:mu
+
+/choa/i;boards:mu
+
+    # Other
+/;/i;boards:mu
+/@/i
+/kys/i;boards:mu
+/cuck/i;boards:mu
+/manface/i;boards:mu
+/grimes/i;boards:mu
+
+# Blogs/links
+/instagram\.com\/blackpinkofficial/i;boards:mu
+/blogspot.com/
+/onehallyu.com/i
+/soompi.com/i
+/netizenbuzz.com/
+/allkpop.com/i
+/koreaboo.com/i
+
+# [MV]
+
+#bp
+
+/9pdj4iJD08s/
+/bwmSjveL3Lc/
+/dISNgvVpWlo/
+
+#reddit velvet
+/J0h8-OTC38I/
+/QslJYDX3o8s/
+/XGdbaEDVWp0/
+
+#mamawho
+/Ue9NG1hAr78/
+/y2OFPvYxZuY/
+/pFuJAIMQjHk/
