@@ -1,4 +1,6 @@
-# /mu/kpg filters
+<p align="center">
+<b>/mu/kpg filters</b>
+</p> 
 
 <h3>Software required:</h3>
 
@@ -14,7 +16,7 @@
 
 <h3>Firefox:</h3>
 
-<<i>Greasemonkey:</i> https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+<i>Greasemonkey:</i> https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
 <h1>4chanX</h1>
 
