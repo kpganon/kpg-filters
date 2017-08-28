@@ -1,3 +1,5 @@
+# http://www.rexegg.com/regex-quickstart.html
+
 # Fagpop
 /husband/i;boards:mu
 /hubby/i;boards:mu
