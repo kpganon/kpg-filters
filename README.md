@@ -36,7 +36,7 @@
 
 <i>Filter images by MD5 hash:</i> http://userscripts-mirror.org/scripts/show/105653
 
-* __Settings -> Filter -> Image MD5 to add hashes__
+  * <i>Settings -> Filter -> Image MD5 to add hashes</i>
   * if installed correctly there will be an 'Image MD5' option under the filter section when using the post dropdown menu 
 <p align="center">
 <img src="http://i.imgur.com/8FTkMjG.jpg">
