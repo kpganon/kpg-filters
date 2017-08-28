@@ -2,7 +2,7 @@
 <b><font size="32"> /mu/kpg filters</font></b>
 </p> 
 
-<h1>Additional Software Required™:</h1>
+<h1>Additional Software™ Required:</h1>
 
 * Userscript manager
 * 4chanX
